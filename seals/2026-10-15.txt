@@ -1,5 +1,7 @@
 agentwatch daily seal 2026-10-15
 previous_seal: de84ffd32a44abf406b864daf99b029ce720c6f6d5e3b179b62ba389845621fa  seals/2026-10-14.txt
+cf1a4b7578e6939a850684e90fc76f9d3be1e6e37644dbb1b7d44db94a74b936  manifests/2026-10-15/rent-run-1.gz.sha256
+23118c50173c0c1a6aadb6274fafba030afa7509f78ca1025cb46ffc0bdd14d7  manifests/2026-10-15/rent-run-1.raw.sha256
 30bf73b4189599fcfb93e7efc6efc99a2efb41300edb9065af8de87e5aefaf42  manifests/2026-10-15/run-7.gz.sha256
 e81ecc7d517d8769023fcdfb57a963eba895e7d97accc34269b5cac4b5781633  manifests/2026-10-15/run-7.raw.sha256
 1bda6d4caaf7dff87c12456bbd9fb23605e3144636574348c4ee593cc5d2a7a0  manifests/details/2026-10-15.sha256
