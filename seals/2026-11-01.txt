@@ -1,0 +1,7 @@
+agentwatch daily seal 2026-11-01
+previous_seal: 4fd0c623dbea430cb0da4403315fb759fe7a6c7a57149dccf9a328a5771b1332  seals/2026-10-31.txt
+0c32bca0b68fbb19aa63ac228d6e6cbdb0403fd1e63ebc69112d5fcde07a22df  manifests/2026-11-01/run-27.gz.sha256
+21810213a2b66c1863dcbe7698f1e764ed6ab57ad7f41ba81dc91e6badf6067b  manifests/2026-11-01/run-27.raw.sha256
+1d65cb8f33b7121e7a067fda3dd322dbb84d7cfe1d7af7a2fbbbef5a46505f29  manifests/details/2026-11-01.sha256
+c53e98ee2e9e902edccb12dda8634bce0bdafa874696f9452391e4bdf513b416  manifests/psra/2026-11-01.sha256
+92d0bea785d48574a2ad8734d66067b6d9447d37aa5466d71c9fc176b98c4ca1  manifests/removals/2026-11-01.sha256
